@@ -27,10 +27,11 @@
 
 .tlo
 {
-    background: 
+    /* background: 
 		url( 'img/1.jpg' ) , 
 		url( 'img/2.jpg' ) , 
-		#222;
+		#222; */
+    background: #272626;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -146,7 +147,7 @@ nav ul li a span:nth-child( 1 )
 }
 nav:hover ul li a span:nth-child( 1 )
 {
-    color: #FED700;
+    color: #1f9e78;
 }
 nav ul li a span:nth-child( 2 )
 {
